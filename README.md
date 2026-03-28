@@ -1,7 +1,7 @@
 # pdf-utility-tool
 Python command-line tool for PDF manipulation (merge, split, rotate, encrypt/decrypt).
 
-Features:-
+Tool functionalities you can use:-
 - Read text from PDF files
 - Merge multiple PDF files
 - Rotate PDF pages
